@@ -1,0 +1,23 @@
+/**
+ * Customizer Custom CSS
+ */
+.wp-commerce-ads {
+	background-color: #a59f9f;
+	text-align: center;
+}
+.wp-commerce-ads .button {
+	background-color: #3e50b4;
+    border: 1px solid #FFF;
+    border-radius: 4px;
+    color: #ffffff;
+	margin: 15px 0;
+	transition: all 0.5s ease-in-out 0s;
+	-webkit-transition:all 0.5s ease-in-out 0s;
+	-moz-transition:all 0.5s ease-in-out 0s;
+}
+.wp-commerce-ads .button:hover,
+.wp-commerce-ads .button:focus
+{
+	background-color: #666666 ;
+	color: #ffffff;
+}

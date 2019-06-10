@@ -1,0 +1,874 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ghumti\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-18 15:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: inc/hooks/ghumti-header-hooks.php:243
+msgid "!"
+msgstr ""
+
+#: inc/template-tags.php:125 inc/template-tags.php:164
+msgid "% "
+msgstr ""
+
+#: inc/widgets/ghumti-widget-fields.php:121
+msgid "- - Select Category - -"
+msgstr ""
+
+#: inc/template-tags.php:125 inc/template-tags.php:164
+msgid "0 "
+msgstr ""
+
+#: inc/template-tags.php:125 inc/template-tags.php:164
+msgid "1 "
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: inc/widgets/ghumti-social-media.php:20
+msgid ""
+"A widget shows the social media icons. Add Social Icons from Customizer > "
+"Header Settings > Social Icons"
+msgstr ""
+
+#: inc/widgets/ghumti-cta-form.php:20
+msgid "A widget that shows Call to Action with Form."
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:80
+#: inc/metaboxes/ghumti-post-metabox.php:80
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:267
+msgid "Add Icon"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:26
+#: inc/widgets/ghumti-widget-functions.php:41
+#: inc/widgets/ghumti-widget-functions.php:56
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:86
+msgid "Added widgets are display at Main Footer Widget Area."
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:71
+msgid "Added widgets are display at Top Footer Widget Area."
+msgstr ""
+
+#: inc/template-functions.php:509
+msgid ""
+"After you import this demo, you might have to setup the menu separately."
+msgstr ""
+
+#: inc/customizer/ghumti-homepage-panel.php:37
+msgid ""
+"All contents of this section are controlled from Widgets. It is just for "
+"your information and modifying this text will have no effect."
+msgstr ""
+
+#. Author of the theme
+msgid "AquariusThemes"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:101
+msgid "Archive Layouts"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:41
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:63
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/widgets/ghumti-featured-slider.php:22
+msgid "AT: Banner Posts Slider"
+msgstr ""
+
+#: inc/widgets/ghumti-block-posts.php:22
+msgid "AT: Block Posts"
+msgstr ""
+
+#: inc/widgets/ghumti-cta-form.php:22
+msgid "AT: Call to Action with Form"
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:23
+msgid "AT: Category & Product"
+msgstr ""
+
+#: inc/widgets/ghumti-sale-withdate.php:21
+msgid "AT: OnSale Product"
+msgstr ""
+
+#: inc/widgets/ghumti-product-carousel.php:22
+msgid "AT: Product Carousel"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:22
+msgid "AT: Product Slider"
+msgstr ""
+
+#: inc/widgets/ghumti-social-media.php:22
+msgid "AT: Social Media"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:88
+#: inc/metaboxes/ghumti-post-metabox.php:88
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/widgets/ghumti-block-posts.php:42
+msgid "Block Category"
+msgstr ""
+
+#: inc/widgets/ghumti-block-posts.php:35
+msgid "Block title"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:124
+msgid "Bottom Section"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:48
+#: inc/customizer/ghumti-general-panel.php:98
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:176
+#: inc/hooks/ghumti-header-hooks.php:86
+msgid "Breaking News"
+msgstr ""
+
+#: inc/widgets/ghumti-featured-slider.php:42
+msgid "Caption Layouts"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:33
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:76
+msgid "Choose a site to display your website more effectively."
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:90
+#: inc/customizer/ghumti-innerpage-panel.php:102
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:64
+#: inc/customizer/ghumti-innerpage-panel.php:182
+#: inc/customizer/ghumti-innerpage-panel.php:235
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:273
+msgid "Choose social media icon."
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:106
+msgid "Classic"
+msgstr ""
+
+#: inc/customizer/ghumti-custom-classes.php:314
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:106
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:94
+msgid "Columns Four"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:98
+msgid "Columns Three"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:102
+msgid "Columns Two"
+msgstr ""
+
+#: comments.php:52 comments.php:73
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/ghumti-cta-form.php:43
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: template-parts/content.php:45 inc/customizer/ghumti-innerpage-panel.php:127
+#: inc/hooks/ghumti-widget-hooks.php:51 layouts/archive/classic.php:47
+#: layouts/archive/grid.php:63
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:38
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:147
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:29
+#: inc/metaboxes/ghumti-post-metabox.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/customizer/ghumti-custom-classes.php:313
+msgid "Delete"
+msgstr ""
+
+#: inc/widgets/ghumti-cta-form.php:38
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:118
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/widgets/ghumti-sale-withdate.php:19
+msgid "Display Special Offer Product with date."
+msgstr ""
+
+#: inc/widgets/ghumti-sale-withdate.php:41
+msgid "Display the Number of Deals Product show"
+msgstr ""
+
+#: inc/widgets/ghumti-block-posts.php:20
+msgid "Displays block posts from selected category in different layouts."
+msgstr ""
+
+#: inc/widgets/ghumti-featured-slider.php:20
+msgid ""
+"Displays posts from selected categories in slider with featured section."
+msgstr ""
+
+#: inc/widgets/ghumti-product-carousel.php:20
+msgid "Displays products from selected categories in carousel."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:191 template-parts/content-page.php:44
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:137
+msgid "Enter read more button text for archive page."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:278
+msgid "Enter social media url."
+msgstr ""
+
+#: inc/widgets/ghumti-block-posts.php:36
+msgid "Enter your block title. (Optional - Leave blank to hide title.)"
+msgstr ""
+
+#: inc/widgets/ghumti-product-carousel.php:38
+msgid "Enter your product title. (Optional - Leave blank to hide title.)"
+msgstr ""
+
+#: 404.php:21
+msgid "error"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:35
+msgid "Feature Product"
+msgstr ""
+
+#: inc/widgets/ghumti-featured-slider.php:54
+msgid "Featured Post Categories"
+msgstr ""
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:25
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:89
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:61
+msgid "Footer Widget Section"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:97
+msgid "FullWidth Layout"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:47
+msgid "Fullwidth Layout"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:39
+msgid "General Header Options"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:34
+msgid "General Settings"
+msgstr ""
+
+#. Name of the theme
+#: inc/hooks/ghumti-footer-hooks.php:122
+msgid "Ghumti"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:138
+msgid "ghumti"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ghumti is a modern ecommerce theme with creative design and powerful "
+"features that lets you write articles and blog posts with ease. It uses the "
+"best clean SEO practices, responsive HTML5, and on top of that, it’s fast, "
+"simple, and easy to use.  Use the Customizer to add your own background, "
+"page layout, site width and more. Get free support at https://aquariusthemes."
+"com/support/ and check the demo at https://aquariusthemes.com/demo/ghumti/"
+msgstr ""
+
+#: inc/customizer/ghumti-homepage-panel.php:44
+msgid ""
+"Go To Widgets section and add widgets as per the widget areas to load in "
+"homepage sections."
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:110
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:24
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:59
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:65
+#: inc/customizer/ghumti-footer-panel.php:66
+#: inc/customizer/ghumti-header-panel.php:65
+#: inc/customizer/ghumti-header-panel.php:93
+#: inc/customizer/ghumti-header-panel.php:121
+#: inc/customizer/ghumti-header-panel.php:162
+#: inc/customizer/ghumti-header-panel.php:235
+#: inc/customizer/ghumti-innerpage-panel.php:278
+msgid "Hide"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:54
+msgid "Home Middle Section"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/customizer/ghumti-homepage-panel.php:25
+msgid "Home Template Setups"
+msgstr ""
+
+#: inc/customizer/ghumti-homepage-panel.php:43
+msgid "Homepage Sections Setups"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://aquariusthemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://aquariusthemes.com/wordpress-themes/ghumti"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:82
+#: inc/metaboxes/ghumti-post-metabox.php:82
+msgid ""
+"In this section we have lots of features which make your post unique and "
+"completely different."
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:72
+#: inc/metaboxes/ghumti-post-metabox.php:72
+msgid "Information"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:28
+msgid "InnerPage Designs"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:32
+msgid "Latest Product"
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:34
+msgid "Left Align With Category Image"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:68
+#: inc/customizer/ghumti-innerpage-panel.php:186
+#: inc/customizer/ghumti-innerpage-panel.php:239
+#: inc/widgets/ghumti-widget-functions.php:39
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:35
+#: inc/metaboxes/ghumti-post-metabox.php:35
+msgid "Left sidebar"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:180
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: inc/hooks/ghumti-header-hooks.php:259
+msgid "Login"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:82
+msgid "Logo on Center"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:81
+msgid "Logo on Left"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:83
+msgid "Logo on Right"
+msgstr ""
+
+#: inc/hooks/ghumti-header-hooks.php:245
+msgid "Logout"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:84
+msgid "Main Footer"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:138
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: comments.php:56 comments.php:77
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-fields.php:233
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:76
+#: inc/customizer/ghumti-innerpage-panel.php:194
+#: inc/customizer/ghumti-innerpage-panel.php:247
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:53
+#: inc/metaboxes/ghumti-post-metabox.php:53
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:47
+#: inc/metaboxes/ghumti-post-metabox.php:47
+msgid "No sidebar Full width"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:55 comments.php:76
+msgid "Older Comments"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:36
+msgid "On Sale Product"
+msgstr ""
+
+#. 1: title.
+#: comments.php:36
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:16
+msgid "Page Meta Options"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:159
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:181
+msgid "Page Sidebars"
+msgstr ""
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:49
+msgid "Pages:"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:38 inc/template-tags.php:157
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:110
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32 inc/template-tags.php:67 inc/template-tags.php:95
+#: inc/template-tags.php:151
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/metaboxes/ghumti-post-metabox.php:16
+msgid "Post Meta Options"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:212
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:234
+msgid "Post Sidebars"
+msgstr ""
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/widgets/ghumti-product-carousel.php:44
+msgid "Product Categories"
+msgstr ""
+
+#: inc/widgets/ghumti-featured-slider.php:130
+#: inc/widgets/ghumti-featured-slider.php:179
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:136
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:27
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/hooks/ghumti-header-hooks.php:253
+msgid "Register"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:273
+msgid "Related Post Option"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:302
+msgid "Related Post Section Title"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:293
+#: inc/hooks/ghumti-custom-hooks.php:33
+msgid "Related Posts"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-fields.php:240
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:33
+msgid "Right Align With Category Image"
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:72
+#: inc/customizer/ghumti-innerpage-panel.php:190
+#: inc/customizer/ghumti-innerpage-panel.php:243
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:41
+#: inc/metaboxes/ghumti-post-metabox.php:41
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:116
+msgid "Search Icon"
+msgstr ""
+
+#. %s: search query.
+#: search.php:23
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/widgets/ghumti-sale-withdate.php:35
+msgid "Select Category For Special Deals"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-fields.php:241
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:53 inc/widgets/ghumti-product.php:55
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:48
+msgid "Select Product Type"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:89
+#: inc/metaboxes/ghumti-post-metabox.php:89
+msgid ""
+"Select sidebar from available options which replaced sidebar layout from "
+"customizer settings."
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:46
+msgid "Select the Display Style (Image Alignment)"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:62
+msgid "Select the number of Product to show"
+msgstr ""
+
+#: inc/customizer/ghumti-customizer-sanitize.php:64
+#: inc/customizer/ghumti-footer-panel.php:65
+#: inc/customizer/ghumti-header-panel.php:64
+#: inc/customizer/ghumti-header-panel.php:92
+#: inc/customizer/ghumti-header-panel.php:120
+#: inc/customizer/ghumti-header-panel.php:161
+#: inc/customizer/ghumti-header-panel.php:234
+#: inc/customizer/ghumti-innerpage-panel.php:277
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:62
+msgid "Show/Hide option for footer widget area section."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:158
+msgid "Show/Hide option for news ticker section."
+msgstr ""
+
+#: inc/customizer/ghumti-innerpage-panel.php:274
+msgid "Show/Hide option for related posts section at single post page."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:117
+msgid "Show/Hide option for search icon at primary menu."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:231
+msgid "Show/Hide option for social media icons at top header section."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:61
+msgid "Show/Hide option for top header section."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:89
+msgid "Show/Hide option for user,cart and wishlist icon beside logo."
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:24
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metaboxes/ghumti-page-metabox.php:73
+#: inc/metaboxes/ghumti-post-metabox.php:73
+msgid "Sidebars"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:94
+msgid "Site Layout"
+msgstr ""
+
+#: inc/widgets/ghumti-featured-slider.php:36
+msgid "Slider Categories"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:20
+msgid "Slider with woocommerce products."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:277
+msgid "Social Icon Url"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:207
+#: inc/customizer/ghumti-header-panel.php:230
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:266
+msgid "Social Media Icon"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:262
+msgid "Social Media Icons"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:272
+msgid "Social Media Logo"
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:183
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: inc/hooks/ghumti-footer-hooks.php:130
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:21
+msgid ""
+"This widgets show the Category Image,Description and Product of that "
+"Category."
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:185
+msgid "Ticker Caption"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:157
+msgid "Ticker Option"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:134
+msgid "Ticker Section"
+msgstr ""
+
+#: inc/widgets/ghumti-cat-product.php:41 inc/widgets/ghumti-cta-form.php:33
+#: inc/widgets/ghumti-product.php:42 inc/widgets/ghumti-sale-withdate.php:30
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/ghumti-widget-functions.php:69
+msgid "Top Footer"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:60
+msgid "Top Header Section"
+msgstr ""
+
+#: functions.php:54
+msgid "Top Menu"
+msgstr ""
+
+#: inc/widgets/ghumti-product.php:34
+msgid "UpSell Product"
+msgstr ""
+
+#: inc/customizer/ghumti-header-panel.php:88
+msgid "User & Cart Icons"
+msgstr ""
+
+#: woocommerce/content-productcarousel.php:65
+msgid "View Product"
+msgstr ""
+
+#: inc/hooks/ghumti-header-hooks.php:272
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/customizer/ghumti-general-panel.php:75
+msgid "Website Layout"
+msgstr ""
+
+#: inc/hooks/ghumti-header-hooks.php:237
+msgid "Welcome"
+msgstr ""
+
+#: inc/customizer/ghumti-footer-panel.php:38
+msgid "Widget Area"
+msgstr ""
+
+#: inc/widgets/ghumti-product-carousel.php:37
+#: inc/widgets/ghumti-social-media.php:35
+msgid "Widget title"
+msgstr ""
+
+#: inc/hooks/ghumti-header-hooks.php:287
+msgid "Wishlist"
+msgstr ""

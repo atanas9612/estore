@@ -1,0 +1,161 @@
+/*=================================================
+            Basic widget design
+=================================================*/
+span.field-label {
+    background: #e6e6e6;
+    display: block;
+    padding: 3px;
+    text-align: center;
+    margin-bottom: 5px;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+/*=================================================
+            Upload image section on widget
+=================================================*/
+.widget-content .attachment-media-view{
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 1em 0;
+}
+.widget-content .placeholder{
+    width: 100%;
+    position: relative;
+    text-align: center;
+    cursor: default;
+    border: 1px dashed #b4b9be;
+    box-sizing: border-box;
+    padding: 9px 0;
+    line-height: 20px;
+}
+.widget-content .actions{
+    margin-top: 8px;
+}
+/*=================================================
+            Selector section on widget
+=================================================*/
+.widget-content .selector-labels label {
+    display: inline-block;
+    padding: 10px 5px 0;
+    position: relative;
+    max-width: 50%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.widget-content .selector-labels label.selector-selected:after {
+    content: "";
+    height: 35px;
+    width: 35px;
+    right: 0;
+    top: 0;
+    position: absolute;
+    background: url(../images/selected.png) no-repeat right top;
+}
+
+.widget-content .selector-labels label img {
+    max-width: 100%;
+}
+
+/*=================================================
+            Meta Box section
+=================================================*/
+
+#ghumti_post_meta ul.ghumti-meta-menu-wrapper,
+#ghumti_page_meta ul.ghumti-meta-menu-wrapper {
+  border-right: 1px solid #e1e1e1;
+  box-sizing: border-box;
+  float: left;
+  margin: 0;
+  width: 22%;
+}
+/*.ghumti-single-meta {
+    display: none;
+}*/
+.ghumti-single-meta.active {
+    display: block;
+}
+.ghumti-meta-tab span.dashicons {
+    margin-right: 7px;
+}
+.ghumti-meta-menu-wrapper li {
+    margin: 0;
+    padding: 10px;
+    border: 1px solid #dcdcdc;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    cursor: pointer;
+}
+.ghumti-meta-menu-wrapper li:last-child {
+    border-bottom: none;
+}
+
+.ghumti-metabox-content-wrapper .ghumti-single-meta {
+    display: none;
+}
+
+.ghumti-metabox-content-wrapper {
+  box-sizing: border-box;
+  float: right;
+  margin-left: 0;
+  padding: 0;
+  width: 76%;
+}
+
+.ghumti-meta-container {
+    border: 1px solid #e1e1e1;
+    position: relative;
+    margin: 20px 0;
+}
+
+.ghumti-meta-menu-wrapper li.active {
+    color: #008ec2;
+}
+
+/*=================================================
+            Radio Image Control
+=================================================*/
+.ghumti-meta-options-wrap .ui-button {
+    margin:        0;
+    border-radius: 0;
+    border:        none;
+    background:    transparent;
+}
+
+.ghumti-meta-options-wrap .ui-button-text { padding: 0; }
+
+.ghumti-meta-options-wrap img {
+    box-sizing: border-box;
+    max-width:  100%;
+    height:     auto;
+    padding:    1px;
+    border:     4px solid transparent;
+}
+
+.ghumti-meta-options-wrap img:hover,
+.ghumti-meta-options-wrap img:focus {
+    border-color: #ddd;
+}
+
+.ghumti-meta-options-wrap .ui-state-active img {
+    border-color: #00a0d2;
+}
+
+.ghumti-clearfix:before,
+.ghumti-clearfix:after {
+    content: '';
+    display: table;
+}
+
+.ghumti-clearfix:after {
+    clear: both;
+}
+.ghumti-type-select {
+    display: none;
+}
+.ghumti-type-select.category{
+    display: block;
+}
